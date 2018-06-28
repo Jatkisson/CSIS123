@@ -1,0 +1,3 @@
+﻿  Chapter3_12.cpp
+c:\users\james\source\repos\chapter3_12\chapter3_12\chapter3_12.cpp(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Chapter3_12.vcxproj -> C:\Users\James\source\repos\Chapter3_12\Debug\Chapter3_12.exe
