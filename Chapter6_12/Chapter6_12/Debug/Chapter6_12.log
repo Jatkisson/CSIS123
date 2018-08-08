@@ -1,0 +1,3 @@
+﻿  Chapter6_12.cpp
+c:\users\james\source\repos\chapter6_12\chapter6_12\chapter6_12.cpp(87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Chapter6_12.vcxproj -> C:\Users\James\source\repos\Chapter6_12\Debug\Chapter6_12.exe
